@@ -1,0 +1,11 @@
+"TicketID";"CustomerID";"Description";"EmployeeID"
+100001;1;"Seat was bent from accident, was replaced and fixed";1001
+100002;2;"Bent frame, waiting for new parts to arrive from warehouse, should be here in a few days";1002
+100003;3;"Chain off of rails, realined rails and bike pedels like new";1003
+100004;4;"Reinstalling front and back pegs after relining bike tires";1004
+100005;5;"Wheel bent and is now replaced and installed on bike";1005
+100006;6;"Handle bars are bent and are flexable, waiting for new parts to arrive for replacement handle bars ";1006
+100007;7;"Popped tires";1003
+100008;8;"Handle bar replacement ";1004
+100009;9;"Handle bar replacement waiting for part to arrive";1001
+100010;10;"Brakes not working, running test on lines and break pads";1005
